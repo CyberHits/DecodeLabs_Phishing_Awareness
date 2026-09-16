@@ -1,4 +1,4 @@
-# DecodeLab Project 3 — Phishing Awareness
+c# DecodeLab Project 3 — Phishing Awareness
 
 ## Overview
 
@@ -8,7 +8,8 @@ This project is a simple Python-based Phishing Awareness Analyzer created as par
 
 The tool analyzes a sample email or message and identifies common phishing indicators such as suspicious keywords, links, urgency, account verification requests, and requests for login information.
 
-## Project Goal
+#
+# Project Goal
 
 The goal of this project is to demonstrate basic threat analysis and security awareness by identifying warning signs commonly found in phishing messages.
 
@@ -123,3 +124,46 @@ Christiana Okpa
 ## Program
 
 DecodeLab Internship Program
+Learning Outcomes
+
+## Project Evidence
+
+### 1. Project Structure
+
+![Project structure](screenshots/01-project-structure.jpg)
+
+### 2. Phishing Detection — High Risk
+
+![Phishing detection](screenshots/02-phishing-detection.jpg)
+
+### 3. Legitimate Message Test — Low Risk
+
+![Legitimate message test](screenshots/03-legitimate-message.jpg)
+
+### 4. Analyzer Code
+
+![Analyzer code](screenshots/04-code-analysis.jpg)
+
+### 5. Code Details
+
+![Code details](screenshots/05-code-details.jpg)
+
+### 6. Git Status
+
+![Git status](screenshots/06-git-status.jpg)
+
+### 7. Git Commit
+
+![Git commit](screenshots/07-git-commit.jpg)
+
+### 8. Project Files
+
+![Project files](screenshots/08-project-files.jpg)
+
+### 9. Terminal Test
+
+![Terminal test](screenshots/09-terminal-test.jpg)
+
+### 10. Final Test
+
+![Final test](screenshots/10-final-test.jpg)
